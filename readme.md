@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Python, R, Spark, Hadoop, Tableau**
 
-- 📫 How to reach me **a.muhammed.madhih.2017@vjc.sg**
+- 📫 How to reach me **ammadhih@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/a-muhammed-madhih-b2b50a189/](https://www.linkedin.com/in/a-muhammed-madhih-b2b50a189/)
 
