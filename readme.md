@@ -31,8 +31,9 @@ I architect **end‑to‑end AI ecosystems** — from distributed data pipelines
 
 
 ## 🧩 Technical Universe
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,scala,r,linux,bash,git,github,docker,kubernetes,terraform,aws,googlecloud,redis,postgres,clickhouse,snowflake,fastapi,react&perline=11" />
+  <img src="https://skillicons.dev/icons?i=python,java,scala,r,linux,bash,git,github,docker,kubernetes,terraform,aws,gcp,redis,postgres,fastapi,react&perline=11" />
 </p>
 
 <p align="center">
