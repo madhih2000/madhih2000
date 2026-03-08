@@ -45,9 +45,9 @@ I architect **end-to-end AI ecosystems** — from distributed data pipelines to 
 ## 🏦 Enterprise GraphRAG Platform
 *Architected for Crédit Agricole CIB*
 
-<p align="center">
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?align=center&theme=dark&title=Enterprise%20GraphRAG&line1=neo4j,neo4j,2E7EEA;falkordb,falkordb,0EA5E9;langchain,langchain,FACC15;langgraph,langgraph,22C55E;argocd,argocd,F97316;terraform,terraform,38BDF8;kubernetes,kubernetes,2563EB" />
-</p>
+<div align="center">
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?align=center&theme=dark&title=Enterprise%20GraphRAG&line1=neo4j,neo4j,2E7EEA;falkordb,falkordb,0EA5E9;langchain,langchain,FACC15;langgraph,langgraph,22C55E;argocd,argocd,F97316;terraform,terraform,38BDF8;kubernetes,kubernetes,2563EB" style="max-width: 100%; height: auto;" />
+</div>
 
 * Built an on-premise **GraphRAG** platform combining **FalkorDB** and **Neo4j** for complex relationship-aware retrieval.
 * Orchestrated **stateful multi-agent workflows** with **LangGraph** and **Agno**, enabling research-grade reasoning over enterprise documents.
