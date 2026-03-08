@@ -31,8 +31,18 @@ I architect **end‑to‑end AI ecosystems** — from distributed data pipelines
 
 ## 🧩 Technical Universe
 
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,scala,r,linux,bash,git,github,docker,kubernetes,terraform,aws,gcp,neo4j,redis,postgresql,clickhouse,snowflake,fastapi,react&perline=10" />
+  <img src="https://skillicons.dev/icons?i=python,java,scala,r,linux,bash,git,github,docker,kubernetes,terraform&perline=11" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,googlecloud,redis,postgres,clickhouse,snowflake,fastapi,react&perline=10" />
+</p>
+
+<p align="center">
+  <!-- Neo4j from go-skill-icons -->
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=neo4j" height="48" alt="Neo4j" />
 </p>
 
 ### ⚙️ Core Competencies
