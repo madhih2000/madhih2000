@@ -32,6 +32,8 @@ I architect **end‑to‑end AI ecosystems** — from distributed data pipelines
 ## 🧩 Technical Universe
 
 
+## 🧩 Technical Universe
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,scala,r,linux,bash,git,github,docker,kubernetes,terraform&perline=11" />
 </p>
@@ -41,8 +43,14 @@ I architect **end‑to‑end AI ecosystems** — from distributed data pipelines
 </p>
 
 <p align="center">
-  <!-- Neo4j from go-skill-icons -->
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=neo4j" height="48" alt="Neo4j" />
+  <!-- Graph Databases -->
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=neo4j" height="48" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNS3YMrzXSMDTlbt6Ekz_ThE-2n4vEJuc_YQ&s" height="48" alt="FalkorDB" />
+</p>
+
+<p align="center">
+  <!-- AI Frameworks -->
+  <img src="https://skillicons.dev/icons?i=streamlit" height="48" />
 </p>
 
 ### ⚙️ Core Competencies
