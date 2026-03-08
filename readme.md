@@ -37,14 +37,16 @@ I architect **end‑to‑end AI ecosystems** — from distributed data pipelines
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,googlecloud,redis,postgres,clickhouse,snowflake,fastapi,react,streamlit&perline=10" />
+  <img src="https://skillicons.dev/icons?i=aws,googlecloud,redis,postgres,clickhouse,snowflake,fastapi,react&perline=10" />
 </p>
 
 <p align="center">
-  <!-- Graph Databases -->
+  <!-- Graph DBs + Streamlit -->
   <img src="https://go-skill-icons.vercel.app/api/icons?i=neo4j" height="48" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNS3YMrzXSMDTlbt6Ekz_ThE-2n4vEJuc_YQ&s" height="48" alt="FalkorDB" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROagBpDTFCL6qh6K4aABvOoVSVr1qv2VjCVg&s" height="48" alt="Streamlit" />
 </p>
+
 
 
 ### ⚙️ Core Competencies
