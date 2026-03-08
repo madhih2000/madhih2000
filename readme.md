@@ -56,7 +56,7 @@ I architect **end‑to‑end AI ecosystems** — from distributed data pipelines
 ### ⚙️ Core Competencies
 
 #### 🤖 Generative AI & Agents
-- `LangChain`, `LangGraph`, `Agno (PhiData)`, `GraphRAG`, `AutoGPT`
+- `LangChain`, `LangGraph`, `Agno (PhiData)`, `GraphRAG`
 - Retrieval‑augmented generation, tool‑calling agents, multi‑agent research workflows
 - Prompt engineering, evaluation pipelines, guardrailing and observability
 
