@@ -12,20 +12,15 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=madhih2000&label=DATA%20INFILTRATED&color=0e75b6&style=flat-square" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/madhih2000?label=Network%20Size&style=flat-square&color=blue" />
-</p>
-
 ---
 
 ### 🧭 Executive Overview
 
 I architect **end‑to‑end AI ecosystems** — from distributed data pipelines to autonomous multi‑agent orchestration. I work as a **Junior Data Engineer at Crédit Agricole CIB** and I am an **MSc candidate in Industry 4.0 at the National University of Singapore**, crafting scalable **GraphRAG** and **multi‑agent** systems that connect enterprise data with AI reasoning.
 
-- 🚀 **Current Mission**: Scaling on‑premise **RAG infrastructure** with **Neo4j**, **FalkorDB**, and **LangGraph**
-- 🧠 **Architecture Focus**: Multi‑agent workflows using **Agno (PhiData)**, **LangGraph**, and graph‑native retrieval
-- ⚓ **Legacy**: Champion of the **MaritimeONE Digital Challenge** and expert in maritime spatial analytics
+- 🚀 **Current Mission**: Scaling on‑premise **RAG infrastructure** with **Neo4j**, **FalkorDB**, and **LangGraph**.
+- 🧠 **Architecture Focus**: Multi‑agent workflows using **Agno (PhiData)**, **LangGraph**, and graph‑native retrieval.
+- ⚓ **Legacy**: Champion of the **MaritimeONE Digital Challenge** and expert in maritime spatial analytics.
 
 ---
 
@@ -41,54 +36,30 @@ I architect **end‑to‑end AI ecosystems** — from distributed data pipelines
 
 ---
 
-### ⚙️ Core Competencies
-
-#### 🤖 Generative AI & Agents
-- `LangChain`, `LangGraph`, `Agno (PhiData)`, `GraphRAG`
-- Retrieval‑augmented generation, tool‑calling agents, multi‑agent research workflows
-- Prompt engineering, evaluation pipelines, guardrailing and observability
-
-#### 🕸️ Graph & Vector Intelligence
-- `Neo4j`, `FalkorDB`, `ChromaDB`, `OpenSearch`, `Redis` (as cache and vector store)
-- Knowledge graphs for enterprise data, relationship‑centric search and recommendation
-- Hybrid search (BM25 + vector), schema design for RAG and agent memory
-
-#### 📡 Data Engineering & Analytics
-- `Apache Spark`, `ClickHouse`, `DuckDB`, `Snowflake`
-- Batch and streaming pipelines, columnar analytics, geospatial computation
-- Data modeling, optimization, and cost‑aware query design
-
-#### 🏗️ Infrastructure & DevOps
-- `Kubernetes`, `ArgoCD`, `Terraform`, `RunAI`, `Linux`, `Docker`
-- Infrastructure‑as‑Code, GitOps, GPU‑aware orchestration, on‑prem and cloud‑hybrid setups
-- Secure, compliant deployment of AI workloads in enterprise environments
-
----
-
 ## 🛰️ Signature Architectures
 
 ### 🏦 Enterprise GraphRAG Platform
 > *Architected for Crédit Agricole CIB*
 
-- Built an on‑premise **GraphRAG** platform combining **FalkorDB** and **Neo4j** for complex relationship‑aware retrieval.
-- Orchestrated **stateful multi‑agent workflows** with **LangGraph** and **Agno**, enabling research‑grade reasoning over enterprise documents.
-- Deployed as a cloud‑native stack on **Kubernetes**, with **Terraform** and **ArgoCD** providing full GitOps and IaC.
-
 <p align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?align=center&theme=dark&title=Enterprise%20GraphRAG&line1=neo4j,neo4j,2E7EEA;falkordb,falkordb,0EA5E9;langchain,langchain,FACC15;langgraph,langgraph,22C55E;argocd,argocd,F97316;terraform,terraform,38BDF8;kubernetes,kubernetes,2563EB" />
+  <img width="100%" style="max-width: 700px;" src="https://github-readme-tech-stack.vercel.app/api/cards?align=center&theme=dark&title=Enterprise%20GraphRAG&line1=neo4j,neo4j,2E7EEA;falkordb,falkordb,0EA5E9;langchain,langchain,FACC15;langgraph,langgraph,22C55E;argocd,argocd,F97316;terraform,terraform,38BDF8;kubernetes,kubernetes,2563EB" />
 </p>
+
+* Built an on‑premise **GraphRAG** platform combining **FalkorDB** and **Neo4j** for complex relationship‑aware retrieval.
+* Orchestrated **stateful multi‑agent workflows** with **LangGraph** and **Agno**, enabling research‑grade reasoning over enterprise documents.
+* Deployed as a cloud‑native stack on **Kubernetes**, with **Terraform** and **ArgoCD** providing full GitOps and IaC.
 
 ---
 
 ### 🚢 Maritime Spatial Analytics SDK
 > *Award-Winning Geometry Engine — MaritimeONE Digital Challenge 2022*
 
-- Engineered a spatial analytics SDK that reduced **vessel port‑call detection time from hours to milliseconds** using computational geometry.
-- Leveraged **ClickHouse** and **DuckDB** for high‑throughput, low‑latency analytics on maritime trajectories and port boundaries.
-
 <p align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?align=center&theme=dark&title=Maritime%20Spatial%20Analytics&line1=python,python,3776AB;clickhouse,clickhouse,FF6B00;duckdb,duckdb,00C2CB;linux,linux,2DD4BF" />
+  <img width="100%" style="max-width: 700px;" src="https://github-readme-tech-stack.vercel.app/api/cards?align=center&theme=dark&title=Maritime%20Spatial%20Analytics&line1=python,python,3776AB;clickhouse,clickhouse,FF6B00;duckdb,duckdb,00C2CB;linux,linux,2DD4BF" />
 </p>
+
+* Engineered a spatial analytics SDK that reduced **vessel port‑call detection time from hours to milliseconds** using computational geometry.
+* Leveraged **ClickHouse** and **DuckDB** for high‑throughput, low‑latency analytics on maritime trajectories and port boundaries.
 
 ---
 
@@ -100,26 +71,14 @@ I architect **end‑to‑end AI ecosystems** — from distributed data pipelines
 
 <h3 align="center">Fullstack AI Engineer Journey</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/2019-🚀%20Genesis-1D4ED8?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/2020-Data%20Foundations-2563EB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/2021-Analytics%20%26%20ML-1E40AF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/2022-Maritime%20AI%20Wins-1D4ED8?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/2023-Graph%20Systems-0EA5E9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/2024-Enterprise%20RAG-22C55E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/2025+-Multiagent%20Autonomy-14B8A6?style=for-the-badge" />
-</p>
-
-<br/>
-
 <div align="center">
 
 | Year | Milestone |
 | :--- | :--- |
 | **2019** | Computer science fundamentals and first contact with `Python` and `SQL`. |
 | **2022** | Built award‑winning **Maritime Spatial Analytics SDK** (hours to milliseconds). |
-| **2024** | Architected on‑premise **GraphRAG**; orchestrated systems with `LangGraph` and `Agno`. |
-| **2025 →** | Scaling into fullstack AI platforms for autonomous enterprise copilots. |
+| **2025** | Architected on‑premise **GraphRAG** at Crédit Agricole CIB. |
+| **2026 →** | Scaling into multi-agent autonomy and fullstack AI platforms. |
 
 </div>
 
@@ -128,8 +87,12 @@ I architect **end‑to‑end AI ecosystems** — from distributed data pipelines
 ## 📊 System Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhih2000&layout=compact&theme=vision-friendly-dark&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=madhih2000&show_icons=true&theme=vision-friendly-dark&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhih2000&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=madhih2000&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=madhih2000&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -147,7 +110,3 @@ I architect **end‑to‑end AI ecosystems** — from distributed data pipelines
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
-<br/>
-
-> **Final Note:** Curious about the code? Explore the full documentation on my **[Portfolio Website](https://madhih2000.github.io/portfolio)**.
