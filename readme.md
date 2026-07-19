@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm A. Muhammed Madhih</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Role-AI%20Engineer-1D4ED8?style=for-the-badge&logo=robotframework&logoColor=white" />
-  <img src="https://img.shields.io/badge/Education-MSc%20Industry%204.0%20%40%20NUS-FF7F50?style=for-the-badge&logo=readthedocs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Location-Singapore-34D399?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://badgen.net/badge/Role/AI%20Engineer/1D4ED8" height="28" />
+  <img src="https://badgen.net/badge/Education/MSc%20Industry%204.0%20@%20NUS/FF7F50?icon=readthedocs" height="28" />
+  <img src="https://badgen.net/badge/Location/Singapore/34D399?icon=googlemaps" height="28" />
 </p>
 
 <p align="center">
   <a href="https://madhih2000.github.io/portfolio">
-    <img src="https://img.shields.io/badge/🌐_Explore_My_Portfolio-FF5733?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://badgen.net/badge/🌐%20Portfolio/Explore%20Now/FF5733?icon=googlechrome" height="28" />
   </a>
 </p>
 
@@ -32,11 +32,11 @@ I architect **on-premise and cloud-native AI systems** — from retrieval infras
 
 <p align="center">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=neo4j" height="50"/>
-  <img src="https://img.shields.io/badge/FalkorDB-0EA5E9?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LangGraph-22C55E?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black"/>
+  <img src="https://badgen.net/badge/FalkorDB/graph%20db/0EA5E9" height="28"/>
+  <img src="https://badgen.net/badge/icon/Streamlit/FF4B4B?icon=streamlit&label" height="28"/>
+  <img src="https://badgen.net/badge/LangChain/framework/1C3C3C" height="28"/>
+  <img src="https://badgen.net/badge/LangGraph/agents/22C55E" height="28"/>
+  <img src="https://badgen.net/badge/DuckDB/analytics/FFF000?icon=duckdb" height="28"/>
 </p>
 
 ---
@@ -109,12 +109,12 @@ I architect **on-premise and cloud-native AI systems** — from retrieval infras
 
 <p align="center">
   <a href="https://linkedin.com/in/a-muhammed-madhih/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://badgen.net/badge/icon/LinkedIn/0077B5?icon=linkedin&label" height="28"/>
   </a>
   <a href="mailto:ammadhih@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://badgen.net/badge/icon/Email/D14836?icon=gmail&label" height="28"/>
   </a>
   <a href="https://github.com/madhih2000">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://badgen.net/badge/icon/GitHub/181717?icon=github&label" height="28"/>
   </a>
 </p>
