@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm A. Muhammed Madhih</h1>
+<h1 align="center">Hi 👋, I'm A Muhammed Madhih</h1>
 
 <p align="center">
   <img src="https://badgen.net/badge/Role/AI%20Engineer/1D4ED8" height="28" />
