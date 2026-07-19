@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm A. Muhammed Madhih</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Role-Fullstack%20AI%20Engineer-1D4ED8?style=for-the-badge&logo=robotframework&logoColor=white" />
+  <img src="https://img.shields.io/badge/Role-AI%20Engineer-1D4ED8?style=for-the-badge&logo=robotframework&logoColor=white" />
   <img src="https://img.shields.io/badge/Education-MSc%20Industry%204.0%20%40%20NUS-FF7F50?style=for-the-badge&logo=readthedocs&logoColor=white" />
   <img src="https://img.shields.io/badge/Location-Singapore-34D399?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
@@ -16,18 +16,18 @@
 
 ### 🧭 Executive Overview
 
-I architect **end-to-end AI ecosystems** — from distributed data pipelines to autonomous multi-agent orchestration. I work as a **Junior Data Engineer at Crédit Agricole CIB** and I am an **MSc candidate in Industry 4.0 at the National University of Singapore**, crafting scalable **GraphRAG** and **multi-agent systems** that connect enterprise data with AI reasoning.
+I architect **on-premise and cloud-native AI systems** — from retrieval infrastructure to autonomous multi-agent workflows. I currently work as a **Junior AI Engineer at Crédit Agricole CIB**, building GenAI applications for a highly regulated banking environment. I hold an **MSc in Industry 4.0 (Smart Industries and Digital Transformation)** and a **BSc (Hons) in Data Science & Analytics** from the **National University of Singapore**, where I graduated as an **NUS Merit Scholar**.
 
-- 🚀 **Current Mission**: Scaling on-premise **RAG infrastructure** with **Neo4j**, **FalkorDB**, and **LangGraph**.
-- 🧠 **Architecture Focus**: Multi-agent workflows using **Agno (PhiData)**, **LangGraph**, and graph-native retrieval.
-- ⚓ **Legacy**: Champion of the **MaritimeONE Digital Challenge** and expert in maritime spatial analytics.
+- 🚀 **Current Mission**: Building on-premise **RAG platforms** with **Neo4j**, **FalkorDB**, and **LangGraph** for enterprise knowledge retrieval.
+- 🧠 **Architecture Focus**: Multi-agent workflows (**LangGraph**, **Agno**) for research automation, compliance-driven data redaction, and support ticket triage.
+- ⚓ **Legacy**: Champion of the **MaritimeONE Digital Challenge 2022** and recipient of the **Maritime Port Authority Global Internship Award 2024**.
 
 ---
 
 # 🧩 Technical Universe
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,scala,r,linux,bash,git,github,docker,kubernetes,terraform,aws,gcp,redis,postgres,clickhouse,snowflake,fastapi,react,argocd&perline=10" />
+  <img src="https://skillicons.dev/icons?i=python,java,scala,r,linux,bash,git,github,docker,kubernetes,terraform,aws,redis,postgres,clickhouse,tensorflow,flask,react,argocd&perline=10" />
 </p>
 
 <p align="center">
@@ -35,6 +35,7 @@ I architect **end-to-end AI ecosystems** — from distributed data pipelines to 
   <img src="https://img.shields.io/badge/FalkorDB-0EA5E9?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangGraph-22C55E?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black"/>
 </p>
 
@@ -42,47 +43,50 @@ I architect **end-to-end AI ecosystems** — from distributed data pipelines to 
 
 # 🛰️ Signature Architectures
 
-## 🏦 Enterprise GraphRAG Platform
-*Architected for Crédit Agricole CIB*
+## 🏦 On-Premise RAG & Multi-Agent Platform
+*Built at Crédit Agricole CIB*
 
 <p align="center">
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Enterprise%20GraphRAG&align=center&theme=dark&line1=neo4j,neo4j,2E7EEA;falkordb,falkordb,0EA5E9&line2=langchain,langchain,FACC15;langgraph,langgraph,22C55E&line3=argocd,argocd,F97316;terraform,terraform,38BDF8;kubernetes,kubernetes,2563EB" />
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=RAG%20%26%20Multi-Agent%20Platform&align=center&theme=dark&line1=neo4j,neo4j,2E7EEA;falkordb,falkordb,0EA5E9&line2=langchain,langchain,FACC15;langgraph,langgraph,22C55E&line3=argocd,argocd,F97316;terraform,terraform,38BDF8;kubernetes,kubernetes,2563EB" />
 </p>
 
-* Built an on-premise **GraphRAG** platform combining **FalkorDB** and **Neo4j** for complex relationship-aware retrieval.
-* Orchestrated **stateful multi-agent workflows** with **LangGraph** and **Agno**, enabling research-grade reasoning over enterprise documents.
-* Deployed as a cloud-native stack on **Kubernetes**, with **Terraform** and **ArgoCD** providing full GitOps and IaC.
+* Architected an on-premise **RAG platform** combining vector and graph-based retrieval (**Neo4j**, **FalkorDB**) for secure, context-aware knowledge access.
+* Built AWS data ingestion pipelines and infrastructure-as-code with **Terraform**, and managed on-premise LLM/GPU orchestration with **RunAI**.
+* Designed **multi-agent AI systems** (**LangGraph**, **Agno**) to automate research synthesis, GDPR-compliant data redaction, and support ticket triage.
+* Shipped production GenAI applications across hybrid cloud and on-premise infra, with **ArgoCD** and **Kubernetes** for CI/CD and orchestration.
 
 ---
 
-## 🚢 Maritime Spatial Analytics SDK
-*Award-Winning Geometry Engine — MaritimeONE Digital Challenge 2022*
+## 🚢 Maritime Intelligence & Spatial Analytics
+*Wärtsilä Singapore & PSA BDP — Data Scientist Internships*
 
 <p align="center">
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?align=center&theme=dark&title=Maritime%20Spatial%20Analytics&line1=python,python,3776AB;clickhouse,clickhouse,FF6B00;duckdb,duckdb,00C2CB;linux,linux,2DD4BF" />
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?align=center&theme=dark&title=Maritime%20Spatial%20Analytics&line1=python,python,3776AB;clickhouse,clickhouse,FF6B00;duckdb,duckdb,00C2CB;selenium,selenium,43B02A" />
 </p>
 
-* Engineered a spatial analytics SDK that reduced **vessel port-call detection time from hours to milliseconds** using computational geometry.
-* Leveraged **ClickHouse** and **DuckDB** for high-throughput, low-latency analytics on maritime trajectories and port boundaries.
+* Engineered computational-geometry techniques that cut **vessel port-call detection time from hours to near-instantaneous**.
+* Optimized data pipelines with **ClickHouse** and **DuckDB**, achieving a **35% speed increase** and reduced error rates.
+* Built and validated a predictive **ETA model** for maritime vessels using real-time tracking data.
+* Champion, **MaritimeONE Digital Challenge 2022** · Recipient, **MPA Global Internship Award 2024**.
 
 ---
 
-# 📽️ Animated Career Timeline
+# 📽️ Career Timeline
 
 <p align="center">
 <img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" width="480"/>
 </p>
 
-<h3 align="center">Fullstack AI Engineer Journey</h3>
-
 <div align="center">
 
 | Year | Milestone |
 |-----|-----------|
-| **2019** | Computer science fundamentals and first contact with Python and SQL |
-| **2022** | Built award-winning Maritime Spatial Analytics SDK |
-| **2025** | Architected on-premise GraphRAG at Crédit Agricole CIB |
-| **2026 →** | Scaling multi-agent autonomous AI systems |
+| **2021** | Data Science Trainee at DataSpark — first production ML work |
+| **2022** | D&AI Intern at TVS Motor · 🏆 MaritimeONE Digital Challenge Champion |
+| **2023** | Data Scientist Intern at PSA BDP — maritime spatial analytics |
+| **2024** | Data Scientist Intern at Wärtsilä · 🏅 MPA Global Internship Award |
+| **2025** | Graduated MSc Industry 4.0 (NUS) · Joined Crédit Agricole CIB as AI Engineer |
+| **2026 →** | Scaling on-premise RAG and multi-agent AI systems in production |
 
 </div>
 
@@ -101,7 +105,7 @@ I architect **end-to-end AI ecosystems** — from distributed data pipelines to 
 
 ---
 
-# ⚡ Neural Connections
+# ⚡ Let's Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/a-muhammed-madhih/">
