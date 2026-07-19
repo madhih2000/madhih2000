@@ -47,7 +47,14 @@ I architect **on-premise and cloud-native AI systems** — from retrieval infras
 *Built at Crédit Agricole CIB*
 
 <p align="center">
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=RAG%20%26%20Multi-Agent%20Platform&align=center&theme=dark&line1=neo4j,neo4j,2E7EEA;falkordb,falkordb,0EA5E9&line2=langchain,langchain,FACC15;langgraph,langgraph,22C55E&line3=argocd,argocd,F97316;terraform,terraform,38BDF8;kubernetes,kubernetes,2563EB" />
+  <img src="https://skillicons.dev/icons?i=terraform,kubernetes" />
+</p>
+<p align="center">
+  <img src="https://badgen.net/badge/Neo4j/graph%20db/2E7EEA" height="26"/>
+  <img src="https://badgen.net/badge/FalkorDB/graph%20db/0EA5E9" height="26"/>
+  <img src="https://badgen.net/badge/LangChain/framework/FACC15" height="26"/>
+  <img src="https://badgen.net/badge/LangGraph/agents/22C55E" height="26"/>
+  <img src="https://badgen.net/badge/ArgoCD/gitops/F97316" height="26"/>
 </p>
 
 * Architected an on-premise **RAG platform** combining vector and graph-based retrieval (**Neo4j**, **FalkorDB**) for secure, context-aware knowledge access.
@@ -61,7 +68,12 @@ I architect **on-premise and cloud-native AI systems** — from retrieval infras
 *Wärtsilä Singapore & PSA BDP — Data Scientist Internships*
 
 <p align="center">
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?align=center&theme=dark&title=Maritime%20Spatial%20Analytics&line1=python,python,3776AB;clickhouse,clickhouse,FF6B00;duckdb,duckdb,00C2CB;selenium,selenium,43B02A" />
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+<p align="center">
+  <img src="https://badgen.net/badge/ClickHouse/analytics/FF6B00" height="26"/>
+  <img src="https://badgen.net/badge/DuckDB/analytics/00C2CB" height="26"/>
+  <img src="https://badgen.net/badge/Selenium/scraping/43B02A" height="26"/>
 </p>
 
 * Engineered computational-geometry techniques that cut **vessel port-call detection time from hours to near-instantaneous**.
